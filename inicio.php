@@ -39,11 +39,11 @@
                 echo "O universo escolhido foi <b>DC</b>";
                 if($heroi == "Batman")
                 {
-                    echo "o herói foi o <b>Batman</b><br>";
+                    echo " o herói foi o <b>Batman</b><br>";
                 }
                 else if($heroi == "Flash")
                 {
-                    echo "o herói foi <b>Flash</b><br>";
+                    echo " o herói foi <b>Flash</b><br>";
                 }
                 else
                 {
